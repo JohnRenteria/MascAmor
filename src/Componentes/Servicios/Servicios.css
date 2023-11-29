@@ -1,0 +1,51 @@
+/*Estilo de Servicios*/
+.Servicios{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(58, 147, 182);
+    margin-bottom: 5px;
+}
+
+.Imagen4{
+    height: 250px;
+    width: 250px;
+    border-radius: 150px;
+}
+
+.Veterinaria{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Peluqueria{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Adopcion{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: #47a386;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    color: #fff;
+    font-size: 14px;
+    padding: 10px 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
