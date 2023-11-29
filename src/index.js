@@ -6,11 +6,7 @@ import Funcionalidades from './Componentes/Funcionalidades/Funcionalidades';
 import Oferta from './Componentes/Oferta/Oferta';
 import QuienesSomos from './Componentes/Quienes Somos/Quienes-Somos';
 import Servicios from './Componentes/Servicios/Servicios';
-
-
-
-
-
+import Footer from './Componentes/Footer/Footer';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -21,6 +17,7 @@ root.render(
     <Oferta />
     <QuienesSomos />
     <Servicios />
+    <Footer />
   </React.StrictMode>
 );
 
