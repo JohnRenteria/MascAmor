@@ -1,0 +1,13 @@
+.Pie-de-Pagina{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    background-color: rgb(41, 182, 48);
+}
+
+.Informacion{
+    margin-left: auto;
+    margin-right: auto;
+}
