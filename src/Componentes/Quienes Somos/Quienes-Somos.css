@@ -1,0 +1,13 @@
+/*Estilo de Quienes Somos*/
+.Quienes-Somos{
+    background-color: #dfd9d9;
+}
+
+h3{
+    text-align: right;
+}
+
+.Titulo-Servicios{
+    background-color: rgb(58, 147, 182);
+    height: 25px;
+}
