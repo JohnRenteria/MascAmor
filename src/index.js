@@ -5,6 +5,7 @@ import Header from './Componentes/Header/Header';
 import Funcionalidades from './Componentes/Funcionalidades/Funcionalidades';
 import Oferta from './Componentes/Oferta/Oferta';
 import QuienesSomos from './Componentes/Quienes Somos/Quienes-Somos';
+import Servicios from './Componentes/Servicios/Servicios';
 
 
 
@@ -19,6 +20,7 @@ root.render(
     <Funcionalidades />
     <Oferta />
     <QuienesSomos />
+    <Servicios />
   </React.StrictMode>
 );
 
