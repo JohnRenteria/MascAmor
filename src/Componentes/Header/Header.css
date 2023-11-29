@@ -1,0 +1,71 @@
+/* Estilo del Cuerpo*/
+body{
+    background-color: rgb(148, 148, 148);
+}
+
+/*Estilo del Encabezado*/
+.Encabezado{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(41, 182, 48);
+}
+
+.Imagen-Logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin: 10px;
+}
+
+.Imagen1{
+    height: 250px;
+    width: 250px;
+    border-radius: 300px;
+}
+
+.Titulo{
+   justify-content: center;
+   align-items: center;
+   margin: 10px;
+   width: 1200px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.Login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 35px 35px 35px 35px ;
+    flex-direction: column;
+}
+
+.Imagen2{
+    height: 100px;
+    width: 100px;
+    border-radius: 300px;
+    margin-left: 25px;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.h2{
+   justify-content: center;
+   align-items: center;
+   margin-left: auto;
+}
+
+.Login .h2:hover{
+    background-color: #fff;
+    border-radius: 10px;
+}
