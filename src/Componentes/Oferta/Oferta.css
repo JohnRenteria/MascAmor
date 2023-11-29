@@ -1,0 +1,46 @@
+/* Estilo de Promoción*/
+.Promocion{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    background-color: rgb(58, 147, 182);
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.Publicidad{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Arreglar Boton de Oferta*/
+
+.Imagen-Oferta{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.Imagen3{
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+}
+/*Estilo de Quienes Somos*/
+.Quienes-Somos{
+    background-color: #dfd9d9;
+}
+
+h3{
+    text-align: right;
+}
+
+.Titulo-Servicios{
+    background-color: rgb(58, 147, 182);
+    height: 25px;
+}
