@@ -4,6 +4,7 @@ import './index.css';
 import Header from './Componentes/Header/Header';
 import Funcionalidades from './Componentes/Funcionalidades/Funcionalidades';
 import Oferta from './Componentes/Oferta/Oferta';
+import QuienesSomos from './Componentes/Quienes Somos/Quienes-Somos';
 
 
 
@@ -17,6 +18,7 @@ root.render(
     <Header />
     <Funcionalidades />
     <Oferta />
+    <QuienesSomos />
   </React.StrictMode>
 );
 
