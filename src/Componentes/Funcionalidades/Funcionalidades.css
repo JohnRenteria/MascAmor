@@ -1,0 +1,28 @@
+.Funcionalidades{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:#dfd9d9;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.Funcion{  
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+
+.Funcionalidades .Funcion :hover{
+    background-color: rgb(11, 140, 190);
+    width: 700px;
+    height: auto;
+    border-radius: 10px;
+}
