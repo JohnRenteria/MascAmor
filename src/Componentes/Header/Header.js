@@ -26,6 +26,11 @@ function Header() {
                 >
                     <div className='Contenido'>
                         <h1>Iniciar Sección</h1>
+                        <labe className="label" for="username">Usuario</labe>
+                        <input className='input' type='text' id="username" placeholder='Ingresa tu Usuario'/>
+                        <labe className="label" for="password">Contraseña</labe>
+                        <input className='input' type='password' id="password" placeholder='Ingresa tu Contraseña'/>
+                        <h2><button >Iniciar</button></h2> 
                         <h2><button >Registrarse</button></h2> 
                     </div>
                 </LoginForm>  
